@@ -1,29 +1,4 @@
-# vue-graphql
-
-## Project setup
+## Intrucciones
 ```
-npm install
+Instalar dependecias con npm install, compilar para desarrollo con npm run serve y para producción con npm run build
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

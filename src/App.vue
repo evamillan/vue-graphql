@@ -8,7 +8,6 @@
       <v-toolbar-title style="width: 300px" class="ml-0 pl-3">
         <span class="hidden-sm-and-down">Movie DB</span>
       </v-toolbar-title>
-
       <v-text-field
         v-model="query"
         flat
@@ -16,7 +15,6 @@
         prepend-icon="search"
         label="Search"
       ></v-text-field>
-
       <v-spacer></v-spacer>
     </v-toolbar>
 

@@ -18,7 +18,6 @@
     <v-card-title class="headline grey lighten-2" primary-title>
       {{ movie.title }}
     </v-card-title>
-
     <v-card-text>
       {{ movie.overview }}
     </v-card-text>

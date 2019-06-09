@@ -4,9 +4,7 @@ import { ApolloClient } from 'apollo-client';
 import { createHttpLink } from 'apollo-link-http';
 import { InMemoryCache } from 'apollo-cache-inmemory';
 import Vuetify from 'vuetify';
-import 'vuetify/dist/vuetify.min.css'
-
-
+import 'vuetify/dist/vuetify.min.css';
 import App from './App.vue';
 
 const httpLink = createHttpLink({
