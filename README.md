@@ -1,4 +1,5 @@
-## Intrucciones
-```
-Instalar dependecias con npm install, compilar para desarrollo con npm run serve y para producción con npm run build
-```
+## Instrucciones
+
+- Instalar dependecias con npm install
+- Compilar para desarrollo con `npm run serve`. La app podrá verse en http://localhost:8080/
+- Compilar para producción con `npm run buid`
